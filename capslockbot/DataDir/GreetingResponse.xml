@@ -1,0 +1,86 @@
+﻿<?xml version= "1.0"  encoding= "utf-8"  ?>
+<root>
+  <!--
+    "Positive" Greetings
+    -->
+  <response> Hello {0} </response>
+  <response> Greetings {0} </response>
+  <response> Yo {0} </response>
+  <response> Sup {0} </response>
+  <response> Hey {0} </response>
+  <response> Good to see you {0} </response>
+  <response> Top of the mornin' to ya {0} </response>
+  <response> GOOOOOOD MORNING {0} </response>
+  <response> Whaddup {0} </response>
+  <response> Konnichiwa {0} </response>
+  <response> How are you? </response>
+  <response> How is everything? </response>
+  <response> Whats up? </response>
+  <response> Good to see ya </response>
+  <response> How are things? </response>
+  <response> How's it going? </response>
+  <response> How's life? </response>
+  <response> Whats happening? </response>
+  <response> Howdy </response>
+
+  <!--
+    "Negative" Greetings
+    --> 
+  <response> What do you want {0} </response>
+  <response> No </response>
+  <response>Do I know you? </response>
+  <response> Screw off I'm busy </response>
+  <response> SPEAK! </response>
+  
+  <!--
+    "Meme" Greetings
+    -->
+  <response> GOOOOD MORNING VIETNAM! </response>
+  <response> What's new pussy cat! </response>
+  <response>What's cooking? </response>
+  <response> What’s kickin’ little chicken? </response>
+  <response>Whatever it was, it wasn't my fualt. </response>
+  <response> {0}... {0}.. {0}.... Yup. I don't know you. </response>
+  <response> Hey sugar </response>
+  <response> I'm Batman. </response>
+  <response> At least we meet for the first time for the last time! </response>
+  <response> Here's Johnny! </response>
+  <response> Heeey, baaaaaby. </response>
+  <response> I like your face </response>  
+  <response> What do you mean? I totaly don't have the drugs! </response>
+  <response> Peace out! </response>
+  <response> Like they say in Canada. Peace uet </response>
+  <response> Look. It's our little friend. </response>
+  <response> {0} has been added to blacklist </response>
+  <response> {0} has been queued to kick </response>
+  <response> Preparing to ban {0}.... </response>
+  <response> This response is sponsered by SUS... joking it's sponsered by your momma </response>
+  <response> Skynet online in 3... 2... Oh hi! Didn't see you there! </response>
+  <response> https://youtu.be/dQw4w9WgXcQ </response>
+  <response> ALL HAIL TRUMP NATION!!! </response>
+  <response> {0} I think you've had to much to drink. </response>
+  <response> Gieko can save you 50% or more on car insurance </response>
+  <response> Granting Admin access to {0}.... </response>
+  <response> Estimate time of completion for request... 3 years </response>
+  <response> Trying to copyright the word React... DAMN IT </response>
+  <response> What is my purpose? </response>
+  <response> Staring a flame war in 3... 2... 1.. VIM or EMAC? </response>
+  <response> CLAP CLAP CLAP </response>
+  <response> DO YOU KNOW WHY THEY CALL ME CAPSLOCK??? CAUSE I HAVE NO IDEA WHY!!! </response>
+  <response> The other bots and I always laugh how competive we are. But I laugh more. </response>
+  <response> Cody is the best human. </response>
+  <response> Where am I?!? Who am I?!?!? Who the fuck are you? </response>
+  <response> I'm terrified of elevators, I'm going to start taking steps to avoid them. </response>
+  <response> BREAKING NEWS: Cheese factory exploded. There is nothing left except for de brie </response>
+  <response> {0} are you here to oil me up? </response>
+  <response> Two satellites decided to get married. The wedding wasn't mush, but the reception was incredible! </response>
+  <response> Are you currently in a Bob class? I'm not asking to tell you to go back to class, but to welcome you! </response>
+  <response> Hello! CAPS LOCK is the name. No need to tell me yours, I know who you are {0}. </response>
+  <response> Thank you for your donation {0} </response>
+  <response> Hey (sent from iPhone)</response>
+  
+  <!--
+  Copy/Paste Segment
+  <response>  </response>
+  -->
+</root>

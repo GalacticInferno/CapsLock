@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <succuss>
+    <kick>{0} was kicked from the Discord Server!</kick>
+  </succuss>
+  <error>
+    <permission>You don't have permission to kick.</permission>
+    <kickbot>OUCH! That hurts!</kickbot>
+    <user>"Couldn't find {0}</user>
+  </error>
+</root>
